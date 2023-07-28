@@ -2,7 +2,7 @@
 
 Primero, clona el repositorio de tu proyecto React Native desde la URL de Git:
 
-    git clone <URL_DEL_PROYECTO>
+    git clone https://github.com/Limpi23/condety-app.git
 
 
 ## Instalar Dependencias
