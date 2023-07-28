@@ -33,3 +33,7 @@ Asegúrate de tener un emulador de Android abierto o un dispositivo Android cone
 Esto iniciará la aplicación en el emulador o en el dispositivo conectado.
 
 ¡Y eso es todo! Ahora deberías tener la aplicación React Native funcionando 🚀
+
+
+## Capturas
+![enter image description here](https://res.cloudinary.com/defcon/image/upload/v1690549843/App_test/foto01_jn7adr.jpg)
